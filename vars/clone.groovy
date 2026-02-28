@@ -1,3 +1,3 @@
-def function(String git,String branch ){
+def call(String git,String branch ){
     git url: "$git", branch: "master"
 }
